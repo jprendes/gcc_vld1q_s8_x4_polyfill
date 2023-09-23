@@ -1,2 +1,2 @@
 FROM scratch
-COPY ./src/* /
+COPY ./polyfill.sh /polyfill.sh
